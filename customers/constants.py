@@ -1,0 +1,4 @@
+
+
+
+HOME_SCREEN_ACTIVE_ID = 1
